@@ -1,0 +1,69 @@
+<style>
+.fondo{
+position: absolute;
+height: 96%;
+width:  97%;
+top:    1%;
+left:   1%;
+border: solid 3px #dddddd;
+background:#bbbbbb;
+}
+
+    
+.titulo{
+position: absolute;
+height: 7%;
+width:  100%;
+top:    1%;
+left:   0%;
+background:#00aabb;
+color: #ffffff;
+font-family: serif;
+font-size: 15px;
+padding-top: 7pt; 
+}
+
+.hoja{
+position: absolute;
+height: 87%;
+width:  98%;
+top:    12%;
+left:   1%;
+background:#eeeeee;
+font-family: serif;
+font-size; 11px;
+}
+
+.caja{
+position: absolute;
+height: 97%;
+width:  97%;
+top:    1%;
+left:   1%;
+border: solid 2px #4488aa;
+background:#eeeeee;
+font-family: serif;
+font-size; 11px;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
