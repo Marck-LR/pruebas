@@ -1,4 +1,4 @@
-<style>
+
 .fondo{
 position: absolute;
 height: 96%;
@@ -13,13 +13,14 @@ background:#bbbbbb;
 .titulo{
 position: absolute;
 height: 7%;
-width:  100%;
+width:  98%;
 top:    1%;
 left:   0%;
-background:#00aabb;
-color: #ffffff;
+border: solid 4px #4488aa;
+background:#00ccbb;
+color: #fff;
 font-family: serif;
-font-size: 15px;
+font-size: 25px;
 padding-top: 7pt; 
 }
 
@@ -31,7 +32,7 @@ top:    12%;
 left:   1%;
 background:#eeeeee;
 font-family: serif;
-font-size; 11px;
+font-size: 11px;
 }
 
 .caja{
@@ -41,12 +42,13 @@ width:  97%;
 top:    1%;
 left:   1%;
 border: solid 2px #4488aa;
-background:#eeeeee;
+background: -webkit-linear-gradient(top left,
+rgba(70,40,80,1)      10%,  rgba(240,180,240,0.3) 10%,
+rgba(190,200,200,0.5) 90%,  rgba(40,180,240,1)  10%);
 font-family: serif;
-font-size; 11px;
+font-size:11px;
 }
 
-</style>
 
 
 
